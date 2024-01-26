@@ -1,5 +1,3 @@
-'''sql
-
 **1. SQL_Report**
 
 Overview:
